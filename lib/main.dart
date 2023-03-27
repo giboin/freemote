@@ -32,7 +32,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-//commentaires linux
+
   String code = "";
   bool disableButtonMode = false;
   bool infoButton = true;
