@@ -71,6 +71,7 @@ android {
             crunchPngs false
         }
     }
+    namespace 'com.chill.telecommande'
 }
 
 flutter {
